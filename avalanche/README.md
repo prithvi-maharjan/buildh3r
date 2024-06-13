@@ -1,6 +1,6 @@
 # Avalanche Workshop
 
-All of the following steps has been performed in the Github Alogrand Codespace.
+All of the following steps has been performed in the Github Algorand Codespace.
 
 ## Screenshots
 
