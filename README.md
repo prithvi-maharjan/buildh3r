@@ -1,3 +1,3 @@
 # BUILDH3R
 
-BUILDH3R Workshop
+BUILDH3R Workshop June
